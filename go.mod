@@ -32,4 +32,4 @@ require (
 	google.golang.org/protobuf v1.28.0 // indirect
 )
 
-require github.com/jarcoal/httpmock v1.0.8
+require github.com/jarcoal/httpmock v1.1.0
