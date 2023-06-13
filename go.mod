@@ -9,7 +9,7 @@ replace github.com/hanzoai/gochimp3 => github.com/davidmytton/gochimp3 v0.0.0-20
 require (
 	cloud.google.com/go/secretmanager v1.10.0
 	github.com/hanzoai/gochimp3 v0.0.0-00010101000000-000000000000
-	golang.org/x/text v0.9.0
+	golang.org/x/text v0.10.0
 	google.golang.org/genproto v0.0.0-20221201164419-0e50fba7f41c
 )
 
